@@ -1,5 +1,5 @@
-blog/_site
-blog/.sass-cache
-blog/.jekyll-cache
-blog/.jekyll-metadata
-blog/Gemfile.lock
+docs/_site
+docs/.sass-cache
+docs/.jekyll-cache
+docs/.jekyll-metadata
+docs/Gemfile.lock
