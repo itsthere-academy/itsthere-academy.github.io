@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "So what is this blog about again?"
-date:   2021-12-18 09:00:00 +0100
+date:   2021-12-20 09:00:00 +0100
 categories: astro
 ---
 By this time I may have lost you. There's cloud computing, learning the sky and toolkit for space exploration. Almost like going three different directions.
