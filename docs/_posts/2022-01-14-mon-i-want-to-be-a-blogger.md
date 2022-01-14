@@ -83,7 +83,7 @@ Now all that was left was to setup local Jekyll instance, so I can test before I
 
 Create your first post.
 
-**As you can see, setting up a blog is trivial and anyone can do it ;)** Maybe Medium or WordPress wan't that bad 
+**As you can see, setting up a blog is trivial and anyone can do it ;)** Maybe Medium or WordPress wasn't that bad 
 idea, after all?
 
 Naaaah. Maybe one day. I had to revisit so many things I otherwise almost forgot. That’s another reasons for this blog. Once all is up and running now, I really enjoy the overall experience. I can blog from VSCode and post with git. So geeky.
