@@ -43,7 +43,7 @@ Now to GitHub. As I said before, GitHub Page is nothing but a repo. You push you
 
 Let me explain.
 
-Any GitHub account can have multiple repos. Each repo can be turned into GitHub page, but only repo named *<account name>.github.io* can be reached as *<account name>.github.io* page. Otherwise it gets published as *<account name>.github.io/<repo>*. 
+Any GitHub account can have multiple repos. Each repo can be turned into GitHub page, but only repo named *account_name.github.io* can be reached as *account_name.github.io* page. Otherwise it gets published as *account_name.github.io/repo*. 
 
 Why this is important? Let’s jump to DNS configuration.
 
