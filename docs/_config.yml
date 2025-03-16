@@ -60,7 +60,12 @@ exclude:
 minima:
 #  skin: dark
   social_links:
-    linkedin: piotr-szukalski-230a9634
-    github: itsthere-academy
-    twitter: ItsThereAcademy
-
+    - title: GitHub Repo
+      icon: github
+      url: "https://github.com/itsthere-academy/"
+    - title: linkedin
+      icon: linkedIn
+      url: "https://www.linkedin.com/in/piotr-szukalski-230a9634/"
+    - title: RSS Feed
+      icon: bars-staggered
+      url: "/feed.xml"
