@@ -47,7 +47,7 @@ You’re welcome :)
 
 P.S. Moon passing by - short recording I took with my phone sticked to the eye piece of the telescope. This is real time (no speed ups). I promise you – looks even better in reality! Yeah, you can find better quality shots online, but I’m happier with mine.
 
-<video width="600" controls>
+<video style="width: 80%; max-width: 800px;" controls>
   <source src="https://s3.eu-central-1.amazonaws.com/files.itsthere.academy/Moon-passing-by.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
